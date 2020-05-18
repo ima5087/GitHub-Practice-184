@@ -36,6 +36,7 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Nicholas Sterge   | Section 101       | nzs5368         |  <https://nzs5368.github.io/GitHub-Demo/> |  
 | Nick Sterge       | Section 101       |  nzs5368        |  <https://nzs5368.github.io/GitHub-Demo/> |
+| Ian Arakkal       | Section 101       | ima5087         |  <https://ima5087.github.io/STAT184-Demo/>|
 
 <br>
 
